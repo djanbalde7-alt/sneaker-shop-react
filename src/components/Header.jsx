@@ -8,7 +8,7 @@ function Header() {
     <header className="border-b">
       <div className="flex justify-between items-center max-w-7xl mx-auto px-6 py-4">
         <Link to="/" className="font-bold text-xl">
-          Ma boutique
+          Ma boutique 2
         </Link>
 
         <Link
